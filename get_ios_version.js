@@ -25,7 +25,7 @@
  *   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  *  Get iOS Version // for iOS mobile development
  * 
- * /
+ * */
 
 function getOsVersion() {
     var agent = window.navigator.userAgent,
