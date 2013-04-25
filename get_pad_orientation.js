@@ -23,6 +23,10 @@
  *      \__\/       \__\/         \__\/       \__\/   
  * 
  *   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ * 
+ *  Joshpopenyc@gmail.com
+ *  joshpope.com
+ * 
  *  Generic function for detecting pad orientation, and orientation change event // for iOS mobile development
  * 
  * */
